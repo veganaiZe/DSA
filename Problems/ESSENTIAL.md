@@ -30,6 +30,7 @@ _Moderately easy challenges; No edge case hell_
 | [ransom note](https://leetcode.com/problems/ransom-note/) [[🚀](https://neetcode.io/solutions/ransom-note)] | easy | counting, hash table, string
 | [invert binary tree](https://leetcode.com/problems/invert-binary-tree/) [[🚀](https://neetcode.io/solutions/invert-binary-tree)] | easy | binary tree, bfs, dfs
 | [design linked list](https://leetcode.com/problems/design-linked-list/) [[🚀](https://neetcode.io/solutions/design-linked-list)] | medium | linked list, low-level design
+| [spiral matrix](https://leetcode.com/problems/spiral-matrix/) [[🚀](https://neetcode.io/problems/spiral-matrix)] | medium | array, matrix, simulation
 
 
 ## 🐔 Level 3
