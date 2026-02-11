@@ -161,6 +161,11 @@
 
 ### 📚 Books
 
+<details><summary>IEEE/ACM Undergraduate CS Course Recommendations</summary>
+
+- [History of Curricular Guidelines](https://cs.union.edu/~hemmendd/History/curric-hist.pdf)
+- [Computer Science Curricula 2023](https://ieeecs-media.computer.org/media/education/reports/CS2023.pdf)
+</details>
 <details><summary><a href="https://mitpress.mit.edu/algorithms">Introduction to Algorithms</a></summary>
 
 - _Third Edition_
