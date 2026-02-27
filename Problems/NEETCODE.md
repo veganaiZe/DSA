@@ -1,4 +1,4 @@
-🚀 [Neetcode 250](https://neetcode.io/practice?tab=neetcode250)
+🚀 [Neetcode 250](https://neetcode.io/practice/practice/neetcode250)
 =================
 
 
@@ -507,6 +507,6 @@ Bit Manipulation
 
 ---
 
-<sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
+<sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice/practice/neetcode150)_
 
 [_neetcode github solutions repo_](https://github.com/neetcode-gh/leetcode)
