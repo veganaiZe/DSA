@@ -63,6 +63,14 @@ _Leaning easy medium challenges_
 | [design skiplist](https://leetcode.com/problems/design-skiplist/) | hard | linked list, low-level design
 
 
+#### Binary Search Tree
+| problem                                                             | supposedly | categories
+|---------------------------------------------------------------------|------------|-----------
+| [insert into binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[🚀](https://neetcode.io/solutions/insert-into-a-binary-search-tree)] | medium | binary search tree, binary tree, tree
+| [construct binary search tree](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[🚀](https://neetcode.io/solutions/construct-binary-tree-from-preorder-and-inorder-traversal)] | medium | array, binary search tree, binary tree, monotonic stack, stack, tree
+| [balance binary search tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | medium | depth-first search, divide & conquer, greedy, binary search tree, binary tree, tree
+
+
 #### Dynamic Programming
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
