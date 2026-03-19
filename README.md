@@ -67,6 +67,10 @@
 🧑‍🏭 [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 ---------------
 
+[_Boyer–Moore Majority Vote_](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
+* Finds majority element(s)
+
+
 ### [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
 * Incrementally builds candidate solutions & backtracks/abandons candidate when it's no longer viable.
@@ -79,27 +83,30 @@
 
 ### [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
-- [__Comparison-based__](https://en.wikipedia.org/wiki/Comparison_sort)
-  * Determines if "key" is less, equal, or greater than another.
-  * Typical sorting algorithm in standard libraries.
-  * Most optimal worst-case time complexity: `O(n log n)`
-  * [_Heapsort_](https://en.wikipedia.org/wiki/Heapsort)
-    - In-place; unstable
-    - Slower than quicksort in practice.
-    - Time complexity
-      * Best: `O(n)` equal keys; `O(n log n)` distinct keys
-      * Average / Worst: `O(n log n)`
-    - Auxiliary space complexity
-      * Worst: `O(1)`
-  * [_Quicksort_](https://en.wikipedia.org/wiki/Quicksort)
-    - Divide-and-conquer / recursive algorithm; typically unstable.
-    - Ideal pivot point is middle value -- for guaranteed `O(n lg n)` for sorted data.
-    - Time complexity
-      * Best / Average: `O(n * log n)`
-      * Worst: `O(n^2)`
-    - Auxiliary space complexity
-      * Naive: `O(n)`
-      * In-place: `O(log n)`
+#### [__Comparison-based__](https://en.wikipedia.org/wiki/Comparison_sort)
+
+* Determines if "key" is less, equal, or greater than another.
+* Typical sorting algorithm in standard libraries.
+* Most optimal time complexity for worst-case: `O(n log n)`
+
+[_Heapsort_](https://en.wikipedia.org/wiki/Heapsort)
+* In-place; unstable
+* Slower than quicksort in practice.
+* Time complexity
+  - Best: `O(n)` equal keys; `O(n log n)` distinct keys
+  - Average / Worst: `O(n log n)`
+* Auxiliary space complexity
+  - Worst: `O(1)`
+
+[_Quicksort_](https://en.wikipedia.org/wiki/Quicksort)
+* Divide-and-conquer / recursive algorithm; typically unstable.
+* Ideal pivot point is middle value -- for guaranteed `O(n lg n)` for sorted data.
+* Time complexity
+  - Best / Average: `O(n * log n)`
+  - Worst: `O(n^2)`
+* Auxiliary space complexity
+  - Naive: `O(n)`
+  - In-place: `O(log n)`
 
 
 ---
