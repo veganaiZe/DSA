@@ -197,6 +197,7 @@
 - [___CSE 392 - Programming Challenges___](https://www3.cs.stonybrook.edu/~skiena/392/) - course homepage
   - [COMP300E - Programming Challenges - 2009 HKUST](https://www.youtube.com/playlist?list=PL07B3F10B48592010) - playlist
   - [Lecture Slides](https://www3.cs.stonybrook.edu/~skiena/392/newlectures/)
+  - [Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) - problem sets
 </details>
 <details><summary><a href="https://web.archive.org/web/20200218054807/http://www.piexposed.com/">Programming Interviews Exposed</a></summary></details>
 <details><summary><a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a></summary>
