@@ -185,6 +185,11 @@
 - _Third Edition_
   - [CLRS Solutions](https://walkccc.me/CLRS/) - walkccc
 </details>
+<details><summary><a href="https://algs4.cs.princeton.edu/home/">Algorithms, 4th Ed</a></summary>
+
+- [Algorithms (Sedgewick, Wayne)](https://www.youtube.com/playlist?list=PLdhhLivm4tPIWRfAG8QtL-ROC0qZAMxEb) - playlist, 45 videos
+- [Algorithms & Data Structures – Princeton COS 226 (Java)](https://www.youtube.com/playlist?list=PL917Z2qaUgvg90VDxAPIue23wuSRyhnuj) - playlist
+</details>
 <details><summary><a href="https://www.algorist.com/">The Algorithm Design Manual</a></summary>
 
 - [___CSE 373 - Analysis of Algorithms___](https://www3.cs.stonybrook.edu/~skiena/373/) - course homepage
