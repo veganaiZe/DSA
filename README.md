@@ -182,14 +182,16 @@
 </details>
 <details><summary><a href="https://www.algorist.com/">The Algorithm Design Manual</a></summary>
 
-- _[CSE 373 - Analysis of Algorithms](https://www3.cs.stonybrook.edu/~skiena/373/)_
+- [___CSE 373 - Analysis of Algorithms___](https://www3.cs.stonybrook.edu/~skiena/373/) - course homepage
   - [CSE373 - Analysis of Algorithms - 1997 SBU](https://www.youtube.com/playlist?list=PL8928ECB5F94CDA14) - playlist
   - [CSE373 - Analysis of Algorithms - 2007 SBU](https://www.youtube.com/playlist?list=PL5F43156F3F22C349) - playlist
   - [CSE373 - Analysis of Algorithms - 2012 SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) - playlist
   - [CSE373 - Analysis of Algorithms - 2016 SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp) - playlist
   - [CSE373 - Analysis of Algorithms - Fall 2020](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx) - playlist
-- [CSE547 - Discrete Mathematics - 1999 SBU](https://www.youtube.com/playlist?list=PL462275E91FC7844D) - playlist
-- [COMP300E - Programming Challenges - 2009 HKUST](https://www.youtube.com/playlist?list=PL07B3F10B48592010) - playlist
+- [___CSE547 - Discrete Mathematics - 1999 SBU___](https://www.youtube.com/playlist?list=PL462275E91FC7844D) - playlist
+- [___CSE 392 - Programming Challenges___](https://www3.cs.stonybrook.edu/~skiena/392/) - course homepage
+  - [COMP300E - Programming Challenges - 2009 HKUST](https://www.youtube.com/playlist?list=PL07B3F10B48592010) - playlist
+  - [Lecture Slides](https://www3.cs.stonybrook.edu/~skiena/392/newlectures/)
 </details>
 <details><summary><a href="https://web.archive.org/web/20200218054807/http://www.piexposed.com/">Programming Interviews Exposed</a></summary></details>
 <details><summary><a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a></summary>
