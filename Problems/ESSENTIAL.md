@@ -41,16 +41,19 @@ _Leaning easy medium challenges_
 | [sort an array](https://leetcode.com/problems/sort-an-array/) [[🚀](https://neetcode.io/solutions/sort-an-array)] | medium | array, divide & conquer, sorting
 | [design hashset](https://leetcode.com/problems/design-hashset/) [[🚀](https://neetcode.io/solutions/design-hashset)] | easy | array, hash function, hash table, linked list, low-level design
 | [design hashmap](https://leetcode.com/problems/design-hashmap/) [[🚀](https://neetcode.io/problems/design-hashmap)] | easy | array, hash function, hash table, linked list, low-level design
+
+
+## 🐓 Level 4
+_More difficult medium challenges_
+| problem                                                             | supposedly | categories
+|---------------------------------------------------------------------|------------|-----------
 | [lru cache](https://leetcode.com/problems/lru-cache/) [[🚀](https://neetcode.io/solutions/lru-cache)] | medium | doubly linked list, hash table, low-level design
 
 
-#### Level 4: _More difficult medium challenges_
+#### 😼 Level 5: _Not insanely difficult hard challenges_
 
 
-#### Level 5: _Not insanely difficult hard challenges_
-
-
-#### Level 6: _Insanely difficult hard challenges_
+#### 😈 Level 6: _Insanely difficult hard challenges_
 
 
 ---
@@ -78,3 +81,9 @@ _Leaning easy medium challenges_
 | [climbing stairs](https://leetcode.com/problems/climbing-stairs/) [[🚀](https://neetcode.io/solutions/climbing-stairs)] | easy | math, memoization
 | [nth tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number/) [[🚀](https://neetcode.io/solutions/n-th-tribonacci-number)] | easy | math, memoization
 | [min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [[🚀](https://neetcode.io/solutions/min-cost-climbing-stairs)] | easy | array
+
+
+---
+
+
+<sub><i>* The emojis are just for fun, to partition the different sections, and help them stick out.  The choice of the rooster for level 4 vs. chicken for level 3 isn't meant to imply males are any better than females, just like the devil horned face for level 6 doesn't mean evil is good.  I just found them fitting enough, considering the limited choices github offers.</i></sub>
