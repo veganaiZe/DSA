@@ -67,10 +67,6 @@
 🧑‍🏭 [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 ---------------
 
-[_Boyer–Moore Majority Vote_](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
-* Finds majority element(s)
-
-
 ### [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
 * Incrementally builds candidate solutions & backtracks/abandons candidate when it's no longer viable.
@@ -107,6 +103,17 @@
 * Auxiliary space complexity
   - Naive: `O(n)`
   - In-place: `O(log n)`
+
+
+### [Streaming](https://en.wikipedia.org/wiki/Streaming_algorithm)
+
+* Processes input as sequence; non-random access.
+* May produce approximate results.
+* May make multiple passes over input.
+* Works with limited (logarithmic) memory sizes.
+
+[_Boyer–Moore Majority Vote_](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
+* Finds majority element(s)
 
 
 ---
