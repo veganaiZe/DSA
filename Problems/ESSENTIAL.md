@@ -83,6 +83,12 @@ _More difficult medium challenges_
 | [min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [[🚀](https://neetcode.io/solutions/min-cost-climbing-stairs)] | easy | array
 
 
+#### Sorting
+| problem                                                             | supposedly | categories
+|---------------------------------------------------------------------|------------|-----------
+| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | medium | Bucket Sort, Counting, Hash Table, Heap (Priority Queue), Sorting, String
+
+
 ---
 
 
