@@ -7,6 +7,7 @@ _Simply learn your language; No tricky stuff_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
 | [add two integers](https://leetcode.com/problems/add-two-integers/) | easy       | math
+| [concatenation of array](https://leetcode.com/problems/concatenation-of-array/) | easy | array, simulation
 
 
 ## 🐣 Level 1
