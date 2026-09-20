@@ -8,13 +8,16 @@ _Simply learn your language; No tricky stuff_
 |---------------------------------------------------------------------|------------|-----------
 | [add two integers](https://leetcode.com/problems/add-two-integers/) | easy       | math
 | [concatenation of array](https://leetcode.com/problems/concatenation-of-array/) | easy | array, simulation
+| [largest in array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | basic | arrays
 
 
 ## 🐣 Level 1
 _Very easy challenges_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
+| [min and max in array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | basic | arrays
 | [fizz buzz](https://leetcode.com/problems/fizz-buzz/)               | easy       | math, simulation, string
+| [rotate array by one](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | basic | arrays
 | [running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/) | easy | array, prefix sum
 | [number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | easy | math, bit manipulation
 | [middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) [[🚀](https://neetcode.io/solutions/middle-of-the-linked-list)] | easy | linked list, two pointers
