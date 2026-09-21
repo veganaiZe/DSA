@@ -4,14 +4,16 @@ Essential DSA Problems
 
 ## 🍼 Level 0
 _Simply learn your language; No tricky stuff_
-| problem                                                             | supposedly | categories
-|---------------------------------------------------------------------|------------|-----------
-| [add two integers](https://leetcode.com/problems/add-two-integers/) | easy       | math
-| [odd or even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | easy | mathematics, bit magic
-| [sum of natural numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | basic | mathematics
-| [concatenation of array](https://leetcode.com/problems/concatenation-of-array/) | easy | array, simulation
-| [largest in array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | basic | arrays
-| [multiplication table](https://www.geeksforgeeks.org/dsa/program-to-print-multiplication-table-of-a-number/) | easy | loops
+| problem                                                             | supposedly | source      | categories
+|---------------------------------------------------------------------|------------|-------------|-----------
+| [add two integers](https://leetcode.com/problems/add-two-integers/) | easy       | [![lc]][1]  | math
+| [else if statement](https://www.geeksforgeeks.org/problems/the-else-if-statement/1) | basic | [![gfg]][2] | conditionals
+| [while loop](https://www.geeksforgeeks.org/problems/while-loop/1) | basic | [![gfg]][2] | loops
+| [odd or even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | easy | [![gfg]][2] | mathematics, bit magic
+| [sum of natural numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | basic | [![gfg]][2] | mathematics
+| [concatenation of array](https://leetcode.com/problems/concatenation-of-array/) | easy | [![lc]][1]  | array, simulation
+| [largest in array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | basic | [![gfg]][2] | arrays
+| [multiplication table](https://www.geeksforgeeks.org/dsa/program-to-print-multiplication-table-of-a-number/) | easy | [![gfg]][2] | loops
 
 
 ## 🐣 Level 1
@@ -101,3 +103,9 @@ _More difficult medium challenges_
 
 
 <sub><i>* The emojis are just for fun, to partition the different sections, and help them stick out.  The choice of the rooster for level 4 vs. chicken for level 3 isn't meant to imply males are any better than females, just like the devil horned face for level 6 doesn't mean evil is good.  I just found them fitting enough, considering the limited choices github offers.</i></sub>
+
+
+[gfg]: https://github.com/user-attachments/assets/52cbb183-646a-432a-a14c-5c5e21cafa01 "GeeksforGeeks"
+[lc]: https://github.com/user-attachments/assets/d7aba231-fa0b-4c3c-9b13-0f2c9cd00936 "LeetCode"
+[1]: https://leetcode.com
+[2]: https://www.geeksforgeeks.org/explore/dsa-step-by-step
