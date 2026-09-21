@@ -7,8 +7,11 @@ _Simply learn your language; No tricky stuff_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
 | [add two integers](https://leetcode.com/problems/add-two-integers/) | easy       | math
+| [odd or even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | easy | mathematics, bit magic
+| [sum of natural numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | basic | mathematics
 | [concatenation of array](https://leetcode.com/problems/concatenation-of-array/) | easy | array, simulation
 | [largest in array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | basic | arrays
+| [multiplication table](https://www.geeksforgeeks.org/dsa/program-to-print-multiplication-table-of-a-number/) | easy | loops
 
 
 ## 🐣 Level 1
