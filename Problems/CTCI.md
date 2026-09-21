@@ -25,7 +25,7 @@ Arrays & Strings
 | H07 | Baby Names             |
 | H13 | Re-Space               | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/?envType=problem-list-v2&envId=ng7taa5v)* | 🟧 [Word Break](https://www.geeksforgeeks.org/problems/word-break1352/1)*
 | H22 | Word Transformer       | 🟥 [Word Ladder](https://leetcode.com/problems/word-ladder/?envType=problem-list-v2&envId=ng7taa5v)
-| H26 | Sparse Similarity      |
+| H26 | [Sparse Similarity](https://en.wikipedia.org/wiki/Jaccard_index) 🌐 | 🟩 [Count Pairs of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings)* | 🔎 [Jaccard Similarity](https://www.geeksforgeeks.org/python/jaccard-similarity/)
 
 
 Linked Lists
@@ -140,7 +140,7 @@ Sorting & Searching
 | M21 | Sum Swap                  |      | 🟧 [Swapping pairs make sum equal](https://www.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1)
 | M24 | Pairs with Sum            | 🟧 [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/?envType=problem-list-v2&envId=ng7taa5v)
 | H11 | Word Distance             | 🟧 [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?envType=problem-list-v2&envId=ng7taa5v) 🔒
-| H26 | Sparse Similarity         |
+| H26 | [Sparse Similarity](https://en.wikipedia.org/wiki/Jaccard_index) 🌐 | 🟩 [Count Pairs of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings)* | 🔎 [Jaccard Similarity](https://www.geeksforgeeks.org/python/jaccard-similarity/)
 
 
 Moderate
@@ -206,7 +206,7 @@ Hard
 | H23 | Max Black Square          | 🟧 [Maximal Square](https://leetcode.com/problems/maximal-square?envType=problem-list-v2&envId=ng7taa5v)
 | H24 | Max Submatrix             |
 | H25 | Word Rectangle            |
-| H26 | Sparse Similarity         |
+| H26 | [Sparse Similarity](https://en.wikipedia.org/wiki/Jaccard_index) 🌐 | 🟩 [Count Pairs of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings)* | 🔎 [Jaccard Similarity](https://www.geeksforgeeks.org/python/jaccard-similarity/)
 
 
 _* = Similar_
