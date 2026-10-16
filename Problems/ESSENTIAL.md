@@ -71,6 +71,7 @@ _More difficult medium challenges_
 #### Also essential; Level not yet established
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
+| [search suggestions system](https://leetcode.com/problems/search-suggestions-system) [[🚀](https://neetcode.io/solutions/search-suggestions-system)] | medium | array, binary search, heap (priority queue), sorting, string, trie
 | [fizz buzz multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | medium | concurrency
 | [lfu cache](https://leetcode.com/problems/lfu-cache/) [[🚀](https://neetcode.io/solutions/lfu-cache)] | hard | doubly linked list, hash table, low-level design
 | [design skiplist](https://leetcode.com/problems/design-skiplist/) | hard | linked list, low-level design
