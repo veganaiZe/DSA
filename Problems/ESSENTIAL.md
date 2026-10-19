@@ -11,7 +11,7 @@ _Simply learn your language; No tricky stuff_
 | [while loop](https://www.geeksforgeeks.org/problems/while-loop/1) | basic | [![gfg]][2] | loops
 | [odd or even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | easy | [![gfg]][2] | mathematics, bit magic
 | [sum of natural numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | basic | [![gfg]][2] | mathematics
-| [concatenation of array](https://leetcode.com/problems/concatenation-of-array/) | easy | [![lc]][1]  | array, simulation
+| [concatenation of array](https://leetcode.com/problems/concatenation-of-array/) | easy | [![lc]][1]  | array, simulation [⚔️][quest]
 | [largest in array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | basic | [![gfg]][2] | arrays
 | [multiplication table](https://www.geeksforgeeks.org/dsa/program-to-print-multiplication-table-of-a-number/) | easy | [![gfg]][2] | loops
 
@@ -26,8 +26,8 @@ _Very easy challenges_
 | [running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/) | easy | array, prefix sum
 | [number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | easy | math, bit manipulation
 | [middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) [[🚀](https://neetcode.io/solutions/middle-of-the-linked-list)] | easy | linked list, two pointers
-| [shuffle the array](https://leetcode.com/problems/shuffle-the-array/) [[🚀](https://neetcode.io/solutions/shuffle-the-array)] | easy | array
-| [max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/) | easy | array
+| [shuffle the array](https://leetcode.com/problems/shuffle-the-array/) [[🚀](https://neetcode.io/solutions/shuffle-the-array)] | easy | array [⚔️][quest]
+| [max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/) | easy | array [⚔️][quest]
 | [root equals sum of children](https://leetcode.com/problems/root-equals-sum-of-children/) | easy | binary tree
 | [richest customer wealth](https://leetcode.com/problems/richest-customer-wealth/) | easy | array, matrix
 
@@ -71,6 +71,7 @@ _More difficult medium challenges_
 #### Also essential; Level not yet established
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
+| [set mismatch](https://leetcode.com/problems/set-mismatch) [[🚀](https://neetcode.io/solutions/set-mismatch)] | easy | array, bit manipulation, hash table, sorting [⚔️][quest]
 | [search suggestions system](https://leetcode.com/problems/search-suggestions-system) [[🚀](https://neetcode.io/solutions/search-suggestions-system)] | medium | array, binary search, heap (priority queue), sorting, string, trie
 | [fizz buzz multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | medium | concurrency
 | [lfu cache](https://leetcode.com/problems/lfu-cache/) [[🚀](https://neetcode.io/solutions/lfu-cache)] | hard | doubly linked list, hash table, low-level design
@@ -97,7 +98,7 @@ _More difficult medium challenges_
 #### Sorting
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
-| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | medium | Bucket Sort, Counting, Hash Table, Heap (Priority Queue), Sorting, String
+| [sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | medium | bucket sort, counting, hash table, heap (priority queue), sorting, string
 
 
 ---
@@ -106,7 +107,8 @@ _More difficult medium challenges_
 <sub><i>* The emojis are just for fun, to partition the different sections, and help them stick out.  The choice of the rooster for level 4 vs. chicken for level 3 isn't meant to imply males are any better than females, just like the devil horned face for level 6 doesn't mean evil is good.  I just found them fitting enough, considering the limited choices github offers.</i></sub>
 
 
-[gfg]: https://github.com/user-attachments/assets/52cbb183-646a-432a-a14c-5c5e21cafa01 "GeeksforGeeks"
-[lc]: https://github.com/user-attachments/assets/d7aba231-fa0b-4c3c-9b13-0f2c9cd00936 "LeetCode"
 [1]: https://leetcode.com
 [2]: https://www.geeksforgeeks.org/explore/dsa-step-by-step
+[gfg]: https://github.com/user-attachments/assets/52cbb183-646a-432a-a14c-5c5e21cafa01 "GeeksforGeeks"
+[lc]: https://github.com/user-attachments/assets/d7aba231-fa0b-4c3c-9b13-0f2c9cd00936 "LeetCode"
+[quest]: https://leetcode.com/quest
